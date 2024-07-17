@@ -6,9 +6,9 @@
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td style="border: none;">
-<a href="https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url" target="_blank">
+<!-- <a href="https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url" target="_blank">
 <img src="https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
-</a>
+</a> -->
 </td>
 <td style="padding-left: 20px; text-align: left;">
 <h3>A passionate software developer from India 🇮🇳</h3>
