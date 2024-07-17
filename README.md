@@ -15,9 +15,9 @@
 <p>
                     🔭 I’m currently working on creating ideas can help in creating yours too.
 <br/>
-                    🌱 A certified AWS Developer Associate.
+                    🌱 Passionate towards Learning.
 <br/>
-                    💬 Ask me about <strong>Java, SpringBoot, React... or anything <a href="https://github.com/bertoxious/bertoxious/issues">here</a></strong>
+                    💬 Ask me about <strong>Java, SpringBoot, React... or anything <a href="https://github.com/mehaks226/mehaks226/issues">here</a></strong>
 </p>
 <div> 
 <a href="mailto:mehakbhardwaz1@gmail.com">
