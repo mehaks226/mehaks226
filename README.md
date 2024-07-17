@@ -20,10 +20,10 @@
                     💬 Ask me about <strong>Java, SpringBoot, React... or anything <a href="https://github.com/bertoxious/bertoxious/issues">here</a></strong>
 </p>
 <div> 
-<a href="mailto:ashishdev@zohomail.in">
+<a href="mailto:mehakbhardwaz1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://www.linkedin.com/in/auniyal" target="_blank">
+<a href="https://www.linkedin.com/in/mehak-sharma-63a74619b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
@@ -37,11 +37,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-<img align="left" width="390" height="250" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bertoxious&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img align="right" width="390" height="250" src="https://github-readme-stats-salesp07.vercel.app/api?username=bertoxious&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+<img align="left" width="390" height="250" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mehaks226&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img align="right" width="390" height="250" src="https://github-readme-stats-salesp07.vercel.app/api?username=mehaks226&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
 </div>
 <div align="center">
-<img width="325" height="250" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bertoxious&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+<img width="325" height="250" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mehaks226&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
 <br/>
 <hr/>
