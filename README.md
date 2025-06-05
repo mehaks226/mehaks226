@@ -44,9 +44,6 @@
 <img width="325" height="250" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mehaks226&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
 <br/>
-<div align="center">
-<img width="325" height="250" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mehaks226&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
-</div>
 <hr/>
 <h2 align="center">🚢 Languages 🛫</h2>
 <br/>
